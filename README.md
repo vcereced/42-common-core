@@ -24,7 +24,23 @@ This repository contains code developed at **42 Málaga Common Core**, from **11
 ## PROJECTS
 <div align="center">
 
-| Project | Language | Grade | Last Commit | Evaluation Information |
-| :--- | :--- | :--- | :--- | :--- |
-| [libft]([https://github.com/jotavare/libft](https://github.com/vcereced/libft)) | <img src="https://img.shields.io/github/languages/top/jotavare/libft"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/libft"/> | `3 peers` `15 mins` `moulinette` |
+https://github.com/vcereced/ft_printf
+
+| Project | Language | Grade |
+| :--- | :--- | :--- | 
+| [libft](https://github.com/vcereced/libft) | <img src="https://img.shields.io/github/languages/top/vcereced/libft"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | 
+| [get_next_line](https://github.com/vcereced/get_next_line) | <img src="https://img.shields.io/github/languages/top/vcereced/get_next_line"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | 
+| [ft_printf](https://github.com/vcereced/ft_printf) | <img src="https://img.shields.io/github/languages/top/vcereced/ft_printf"/> | <img src="https://img.shields.io/badge/104%20%2F%20100-success"/> | 
+| [born2beroot](https://github.com/vcereced/born2beroot) | <img src="https://img.shields.io/github/languages/top/vcereced/born2beroot"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> |  
+| [minitalk](https://github.com/vcereced/minitalk) | <img src="https://img.shields.io/github/languages/top/vcereced/minitalk"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | 
+| [so_long](https://github.com/vcereced/so_long) | <img src="https://img.shields.io/github/languages/top/vcereced/so_long"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | 
+| [push_swap](https://github.com/vcereced/push_swap) | <img src="https://img.shields.io/github/languages/top/vcereced/push_swap"/> | <img src="https://img.shields.io/badge/84%20%2F%20100-success"/> |  
+| [philosophers](https://github.com/vcereced/philosophers) | <img src="https://img.shields.io/github/languages/top/vcereced/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | 
+| [minishell](https://github.com/vcereced/minishell) | <img src="https://img.shields.io/github/languages/top/vcereced/minishell"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | 
+| [net_practice](https://github.com/vcereced/net_practice) | <img src="https://img.shields.io/github/languages/top/vcereced/net_practice"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | 
+| [cub3d](https://github.com/vcereced/cub3d) | <img src="https://img.shields.io/github/languages/top/vcereced/cub3d"/> | <img src="https://img.shields.io/badge/110%20%2F%20100-sucess"/> |  
+| [cpp_modules](https://github.com/vcereced/cpp_modules) | <img src="https://img.shields.io/github/languages/top/vcereced/cpp_modules"/> | <img src="https://img.shields.io/badge/in_progress-yellow"/> | 
+| [inception](https://github.com/vcereced/inception) | <img src="https://img.shields.io/github/languages/top/vcereced/inception"/> | <img src="https://img.shields.io/badge/in_progress-yellow"/> | 
+| webserv | - | - | 
+| ft_transcendence  | - | - | 
 

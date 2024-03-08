@@ -15,7 +15,7 @@
 </p>
 
 ## ABOUT
-The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
+The **42 Common Core**, established in Paris in 2013, is an ongoing program that evolves through continuous evaluation and development. Students advance by completing projects and earning points to level up, creating a gamified learning experience.
 
 This repository contains code developed at **42 Málaga Common Core**, from **11/2022** to **present day**. </br>
 

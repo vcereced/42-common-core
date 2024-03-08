@@ -19,7 +19,12 @@
 ## ABOUT
 The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
 
-This repository contains code developed at **42 Porto Common Core**, from **02/11/2022** to **present day**. </br>
+This repository contains code developed at **42 Málaga Common Core**, from **11/2022** to **present day**. </br>
 
-> [!NOTE]  
-> If you are looking for code related to the **42 Porto Piscine**, <a href="https://github.com/jotavare/42-piscine">click here</a>.
+## PROJECTS
+<div align="center">
+
+| Project | Language | Grade | Last Commit | Evaluation Information |
+| :--- | :--- | :--- | :--- | :--- |
+| [libft]([https://github.com/jotavare/libft](https://github.com/vcereced/libft)) | <img src="https://img.shields.io/github/languages/top/jotavare/libft"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/jotavare/libft"/> | `3 peers` `15 mins` `moulinette` |
+

@@ -11,7 +11,6 @@
 <p align="center">
 	<a href="#about">About</a> •
 	<a href="#projects">Projects</a> •
-	<a href="#exams">Exams</a> •
 	<a href="#norminette">Norminette</a>
 </p>
 
@@ -42,19 +41,6 @@ https://github.com/vcereced/minishell
 | webserv | - | - | 
 | ft_transcendence  | - | - | 
 
-</div>
-
-## EXAMS
-
-<div align="center">
-
-| Exam Rank | Language | Finish Date | Grade | Time |
-| :--- | :--- | :--- | :--- | :--- |
-| Exam 02 | `C` | 18-04-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | `3 hours` |
-| Exam 03 | `C` | 16-10-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | `3 hours` |
-| Exam 04 |  |  |  |  |
-| Exam 05 |  | - | - |  |
-| Exam 06 |  | - | - |  |
 </div>
 
 ## NORMINETTE

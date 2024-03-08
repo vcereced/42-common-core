@@ -12,8 +12,7 @@
 	<a href="#about">About</a> •
 	<a href="#projects">Projects</a> •
 	<a href="#exams">Exams</a> •
-	<a href="#norminette">Norminette</a> •
-	<a href="#license">License</a>
+	<a href="#norminette">Norminette</a>
 </p>
 
 ## ABOUT

@@ -36,7 +36,7 @@ https://github.com/vcereced/minishell
 | [minishell](https://github.com/vcereced/minishell) | <img src="https://img.shields.io/github/languages/top/vcereced/minishell" alt="Lenguaje principal"> <img src="https://img.shields.io/github/languages/code-size/vcereced/minishell" alt="Tamaño del código en bytes"> <img src="https://img.shields.io/github/languages/count/vcereced/minishell" alt="Número de lenguajes utilizados"> | <img src="https://img.shields.io/badge/125%20%2F%20100-sucess"/> | 
 | [net_practice](https://github.com/vcereced/net_practice) | <img src="https://img.shields.io/github/languages/top/vcereced/net_practice"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess"/> | 
 | [cub3d](https://github.com/vcereced/cub3d) | <img src="https://img.shields.io/github/languages/top/vcereced/cub3d" alt="Lenguaje principal"> <img src="https://img.shields.io/github/languages/code-size/vcereced/cub3d" alt="Tamaño del código en bytes"> <img src="https://img.shields.io/github/languages/count/vcereced/cub3d" alt="Número de lenguajes utilizados"> | <img src="https://img.shields.io/badge/125%20%2F%20100-sucess"/> |  
-| [cpp_modules](https://github.com/vcereced/cpp_modules) |  | <img src="https://img.shields.io/badge/in_progress-yellow"/> | 
+| [cpp_modules](https://github.com/vcereced/cpp) | <img src="https://img.shields.io/github/languages/top/vcereced/cpp" alt="Lenguaje principal"> <img src="https://img.shields.io/github/languages/code-size/vcereced/cpp" alt="Tamaño del código en bytes"> | <img src="https://img.shields.io/badge/in_progress-yellow"/> | 
 | [inception](https://github.com/vcereced/inception) |  | <img src="https://img.shields.io/badge/in_progress-yellow"/> | 
 | webserv | - | - | 
 | ft_transcendence  | - | - | 

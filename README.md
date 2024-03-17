@@ -21,8 +21,6 @@ This repository contains code developed at **42 Málaga Common Core**, from **11
 ## PROJECTS
 <div align="center">
 
-https://github.com/vcereced/minishell
-
 | Project | Language | Grade |
 | :--- | :--- | :--- | 
 | [libft](https://github.com/vcereced/libft) | <img src="https://img.shields.io/github/languages/top/vcereced/libft" alt="Lenguaje principal"> <img src="https://img.shields.io/github/languages/code-size/vcereced/libft" alt="Tamaño del código en bytes"> <img src="https://img.shields.io/github/languages/count/vcereced/libft" alt="Número de lenguajes utilizados"> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | 

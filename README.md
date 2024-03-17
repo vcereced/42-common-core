@@ -1,5 +1,5 @@
 <p align="center">
-<img width="772" alt="Screen Shot 2024-03-08 at 1 03 50 PM" src="https://github.com/vcereced/42-common-core/assets/120835200/a4264d07-77c2-43f9-89c3-f09cd210d6a8">
+	<img  width="400" src=https://github.com/vcereced/vcereced/assets/120835200/3b3e5983-99bb-4eaf-84cb-6340f1a111ff>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square"/>

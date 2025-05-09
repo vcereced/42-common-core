@@ -7,12 +7,6 @@
 	<a href='https://profile.intra.42.fr/users/vcereced' target="_blank"><img alt='42' src='https://img.shields.io/badge/Málaga-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#projects">Projects</a> •
-	<a href="#norminette">Norminette</a>
-</p>
-
 ## ABOUT
 The **42 Common Core**, established in Paris in 2013, is an ongoing program that evolves through continuous evaluation and development. Students advance by completing projects and earning points to level up, creating a gamified learning experience.
 
